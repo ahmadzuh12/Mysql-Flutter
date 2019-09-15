@@ -1,6 +1,6 @@
 # logintest
 
-A new Flutter project.
+A new Flutter project. ini adalah project flutter CRUD + Login menggunakan Framework Flutter
 
 ## Getting Started
 

@@ -1,6 +1,5 @@
 # logintest
-
-A new Flutter project. ini adalah project flutter CRUD + Login menggunakan Framework Flutter
+Ini adalah Project Flutter CRUD + Login menggunakan Framework Flutter dan menggunakan Mysql Sebagai Database.
 
 ## Getting Started
 

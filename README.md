@@ -1,5 +1,14 @@
-# logintest
-Ini adalah Project Flutter CRUD + Login menggunakan Framework Flutter dan menggunakan Mysql Sebagai Database.
+# Flutter CRUD Mysql
+
+Sebelum Anda Melanjutkan
+------
+* Aplikasi ini masih dalam tahap pengembangan sehingga terdapat Bug atau beberapa Error.<br>
+* Aplikasi ini menggunakan Framework Flutter dengan bahasa Pemrograman Dart.<br>
+
+Deskripsi
+---------
+
+Flutter CRUD Mysql adalah aplikasi android berbasis Database CRUD MariaDB.
 
 ## Getting Started
 
